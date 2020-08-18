@@ -1,2 +1,4 @@
-# Loan-Prediction
-not the best model, just for quick reference 
+### Loan Prediction
+
+- just for quick reference
+- not the best/most optimized model
